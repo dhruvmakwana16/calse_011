@@ -1,0 +1,19 @@
+#screen{
+    height: 60px;
+    width: 300px;
+    text-align: right;
+    border:solid;
+    color:black;
+    font-size: 30px;
+    border-color: rgb(226, 92, 92);
+}
+button{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border: none;
+    color: rgb(58, 30, 30);
+    box-shadow: inset  rgb(124, 124, 68);
+    border-radius: 8px;
+    
+}
